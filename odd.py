@@ -1,5 +1,5 @@
 a=3
-    if((a%2)==0):
-        print"even"
-    else:
+    if((a%3)==0):
         print"odd"
+    else:
+        print"even"
